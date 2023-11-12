@@ -1,0 +1,1 @@
+# JGCotrim_microservices_dotnet6
